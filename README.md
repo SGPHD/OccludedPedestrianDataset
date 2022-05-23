@@ -1,4 +1,4 @@
-# OccludedPedestrian
+# Occluded Pedestrian Dataset
 
 Partially Occluded Pedestrian Dataset used in ["The Impact of Partial Occlusion on Pedestrian Detectability"](https://arxiv.org/abs/2205.04812) Gilroy _et al_ 2022. 
 
