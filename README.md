@@ -11,6 +11,8 @@ This dataset contains 820 person instances in 724 images for the characterizatio
 
 Images are annotated using the objective occlusion level annotation method described in [“Pedestrian Occlusion Level Classification using Keypoint Detection and 2D Body Surface Area Estimation”](https://openaccess.thecvf.com/content/ICCV2021W/OVIS/papers/Gilroy_Pedestrian_Occlusion_Level_Classification_Using_Keypoint_Detection_and_2D_Body_ICCVW_2021_paper.pdf) Gilroy _et al_ 2021. 
 
+Annotation files are in COCO format.
+
 
 ### Please cite the following work
 
