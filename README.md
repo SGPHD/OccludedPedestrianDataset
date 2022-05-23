@@ -1,14 +1,15 @@
 # OccludedPedestrian
 
-Objective Partially Occluded Pedestrian Dataset used in ["The Impact of Partial Occlusion on Pedestrian Detectability"](https://arxiv.org/abs/2205.04812) Gilroy _et al_ 2022. 
+Partially Occluded Pedestrian Dataset used in ["The Impact of Partial Occlusion on Pedestrian Detectability"](https://arxiv.org/abs/2205.04812) Gilroy _et al_ 2022. 
 
-Images are annotated using the objective occlusion level annotation method described in [“Pedestrian Occlusion Level Classification using Keypoint Detection and 2D Body Surface Area Estimation”](https://openaccess.thecvf.com/content/ICCV2021W/OVIS/papers/Gilroy_Pedestrian_Occlusion_Level_Classification_Using_Keypoint_Detection_and_2D_Body_ICCVW_2021_paper.pdf) Gilroy _et al_ 2021. 
 
 
 <img title="Dataset_Sample" src="images/DatasetSample.png"/> 
 
 
+This dataset contains 820 person instances in 724 images for the characterization of detection model performance for partially occluded pedestrians. Pedestrian instances are occluded by a diverse mix of objects across a range of occlusion levels from 0 to 99% occluded.
 
+Images are annotated using the objective occlusion level annotation method described in [“Pedestrian Occlusion Level Classification using Keypoint Detection and 2D Body Surface Area Estimation”](https://openaccess.thecvf.com/content/ICCV2021W/OVIS/papers/Gilroy_Pedestrian_Occlusion_Level_Classification_Using_Keypoint_Detection_and_2D_Body_ICCVW_2021_paper.pdf) Gilroy _et al_ 2021. 
 
 
 ### Please cite the following work
